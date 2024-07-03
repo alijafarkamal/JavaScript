@@ -1,0 +1,27 @@
+/* body{
+    background-color: rgb(49, 226, 43);
+color: blue
+
+}; */
+h1{
+    color: blueviolet;
+    }
+    #102{
+        color: darkorange;
+    }
+/* p{
+    color: black;
+    background-image: -moz-radial-gradient();
+    /* background-color: lawngreen !important;
+    font-size: smaller;
+    text-align: center;
+} */
+h1,p{
+    width: 500px;
+}
+#abc{
+    color: greenyellow;
+}
+.c101{
+color:gold;
+}
